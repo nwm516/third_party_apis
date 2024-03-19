@@ -1,0 +1,11 @@
+{
+  "name": "third-party-apis",
+  "version": "1.0.0",
+  "description": "third party api assignment",
+  "main": "ThirdPartyAPI.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NW Miller",
+  "license": "MIT"
+}

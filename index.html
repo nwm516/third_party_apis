@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Where's That Pokemon?</title>
+        <link rel="stylesheet" href="pokemonStyle.css">
+    </head>
+    
+    <body>
+
+        <h1>Where's That Pokemon?</h1>
+
+        <input type="text" id="pokemonName" placeholder="Enter Pokemon Name">
+        <button onclick="fetchPokemonData()">Choose your Pokemon</button><br>
+
+        <div id="imageContainer">
+            <img src="" alt="Pokemon Sprite" id="pokemonSprite">
+        </div>
+
+        <div id="infoContainer">
+            <img src="" alt="Pokemon Location Info" id="pokemonLocationInfo" style="display: none">
+        </div>
+
+        <script src="ThirdPartyAPI.js"></script>
+    </body>
+</html>
