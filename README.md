@@ -6,4 +6,4 @@ I made an application called "Where's That Pokemon?" that calls upon the PokeAPI
 ![Farfetchd Results](https://github.com/nwm516/third_party_apis/assets/36825393/1a76b434-c2f2-4b64-8ba3-b62de5c59aff)
 
 # Application Usage
-I ran "npm init" to initialize the project, and set the appropriate fields within the package.json file. Keeping the three files for this application together (ThirdPartyAPI.js, index.html, pokeStyle.css) in the same folder, then choosing to open index in a web broswer should keep everything running smoothly.
+I ran "npm init" to initialize the project, and set the appropriate fields within the package.json file. Keeping the files for this application together in the same folder, then choosing to open "index.hmtl" in a web broswer should keep everything running smoothly.
